@@ -16,7 +16,7 @@ To build strong, real-world cybersecurity skills with a hacker mindset by learni
 
 ## ⏳ 180 Days Consistency Challenge
 
-- 📅 Duration: 180 Days  
+- 📅 Duration: 182 Days  (26 weeks)
 - 🔥 Rule: No Zero Days  
 - 💻 Method: Learn → Practice → Document → Improve  
 
