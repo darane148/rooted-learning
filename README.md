@@ -100,6 +100,22 @@ All learning is implemented and tested in:
 
 ---
 
+## 💥 Real-World Simulations
+
+### 1. SQL Injection Attack Lab
+- Vulnerable app created
+- Exploited using manual payloads + BurpSuite
+- Extracted sensitive data
+
+### 2. XSS Exploitation Demo
+- Reflected + Stored XSS tested
+- Session hijacking simulated
+
+### 3. Privilege Escalation (Linux)
+- Misconfigured SUID exploited
+- Root access achieved
+---
+
 ## 📸 Proof of Work
 
 - Screenshots of commands and outputs  
